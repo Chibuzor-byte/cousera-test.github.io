@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+h1.logo {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 2.5em;
+            text-align: center;
+            margin-bottom: 5%;
+            margin-top: 5%;
+}
+
+#first {
+            border: 2px solid black;
+            margin: 5% auto 20px auto;
+            position: relative;
+            width: 400px;
+            padding: 40px 10px 10px 10px;
+            background-color: gray;
+            
+
+}
+h1.chicken {
+                text-align: center;
+                font-size: 1.5em;
+                font-family: sans-serif;
+                border: 2px solid black;
+                background-color: blanchedalmond;
+                position: absolute;
+                top: 0;
+                right: 0;
+                width: 140px;
+                color: black;
+                
+}
+
+#second {
+    border: 2px solid black;
+    margin: 5% auto 20px auto;
+    position: relative;
+    width: 400px;
+    padding: 40px 10px 10px 10px;
+    background-color: gray;
+    
+
+}
+h1.beef {
+        text-align: center;
+        font-size: 1.5em;
+        font-family: sans-serif;
+        border: 1px solid black;
+        background-color: red;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 140px;
+        color: white;
+        
+}
+
+#third{
+    border: 2px solid black;
+    margin: 5% auto 30px auto;
+    position: relative;
+    width: 400px;
+    padding: 40px 10px 10px 10px;
+    background-color: gray;
+    
+
+}
+h1.sushi {
+        text-align: center;
+        font-size: 1.5em;
+        font-family: sans-serif;
+        border: 1px solid black;
+        background-color: aqua;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 140px;
+        color:black;
+        
+}
+
+footer {
+            text-align: center;
+            background-color: gray;
+
+
+}

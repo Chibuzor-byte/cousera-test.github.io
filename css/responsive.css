@@ -1,0 +1,175 @@
+/*********
+Mobile Phone
+**********/
+@media screen and (max-width: 767px) {
+    body {
+            background-color: green;
+    }
+
+    
+    #first {
+        border: 2px solid black;
+        margin: 5% 5% 20px 5%;
+        position: relative;
+        width: 90%;
+        padding: 40px 10px 10px 10px;
+        background-color: gray;
+        line-height: 1.5em;
+        
+
+}
+
+
+#second {
+border: 2px solid black;
+margin: 5% 5% 20px 5%;
+position: relative;
+width: 90%;
+padding: 40px 10px 10px 10px;
+background-color: gray;
+line-height: 1.5em;
+
+
+}
+
+    
+}
+
+#third{
+border: 2px solid black;
+margin: 5% 5% 30px 5%;
+position: relative;
+width: 90%;
+padding: 40px 10px 10px 10px;
+background-color: gray;
+line-height: 1.5em;
+
+}
+
+
+footer {
+        text-align: center;
+        background-color: gray;
+}
+
+/*********
+Tablet
+**********/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    body {
+        background-color: #85b3d1ff;
+ } 
+    #first {
+        border: 2px solid black;
+        margin: -30px 1.25% 30px 1.25%;
+        position: relative;
+        width: 47.5%;
+        padding: 40px 10px 10px 10px;
+        background-color: gray;
+        float: left;
+        line-height: 1.5em;
+        
+
+}
+    
+    #second {
+        border: 2px solid black;
+        margin: -30px 1.25% 30px 1.25%;
+        position: relative;
+        width: 47.5%;
+        padding: 40px 10px 10px 10px;
+        background-color: gray;
+        float: left;
+        line-height: 1.5em;
+        
+
+}
+    
+    #third {
+        border: 2px solid black;
+        margin: -30px 1.25% 30px 1.25%;
+        position: relative;
+        width: 97.5%;
+        padding: 40px 10px 10px 10px;
+        background-color: gray;
+        clear: left;
+        line-height: 1.5em;
+        margin-bottom: 30px;
+
+}
+    
+    footer {
+            position: relative;
+    }
+    
+    p.footer{
+        position: absolute;
+        bottom: 0;
+        right: 50%;
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+}
+
+/*********
+Laptop
+**********/
+@media screen and (min-width: 992px) {
+    body {
+        background-color: aqua;
+ } 
+ 
+ #first {
+    border: 2px solid black;
+    margin: -30px 1.25% 30px 1.25%;
+    position: relative;
+    width: 30.8333%;
+    padding: 40px 10px 10px 10px;
+    background-color: gray;
+    float: left;
+    line-height: 1.5em;
+    
+
+}
+
+
+#second {
+    border: 2px solid black;
+    margin: -30px 1.25% 30px 1.25%;
+    position: relative;
+    width: 30.8333%;
+    padding: 40px 10px 10px 10px;
+    background-color: gray;
+    float: left;
+    line-height: 1.5em;
+    
+
+}
+
+
+#third {
+    border: 2px solid black;
+    margin: -30px 1.25% 30px 1.25%;
+    position: relative;
+    width: 30.8333%;
+    padding: 40px 10px 10px 10px;
+    background-color: gray;
+    float: left;
+    line-height: 1.5em;
+    
+
+}
+
+
+
+p.footer{
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    text-align: center;
+}
+
+
+}
